@@ -1,0 +1,55 @@
+{
+ "walk": {
+  "cell": [
+   120,
+   163
+  ],
+  "anchor": "pes (centro horizontal do tronco, base do sprite)",
+  "frames": [
+   "dir_r0c0",
+   "dir_r0c1",
+   "dir_r0c2",
+   "dir_r0c3",
+   "dir_r1c0",
+   "dir_r1c1",
+   "dir_r1c2",
+   "dir_r1c3",
+   "dir_r2c0",
+   "dir_r2c1",
+   "dir_r2c2",
+   "dir_r2c3",
+   "dir_r3c0",
+   "dir_r3c1",
+   "dir_r3c2",
+   "dir_r3c3",
+   "base_r0c0",
+   "base_r0c1",
+   "base_r0c2",
+   "base_r0c3",
+   "base_r1c0",
+   "base_r1c1",
+   "base_r1c2",
+   "base_r1c3"
+  ]
+ },
+ "duto": {
+  "cell": [
+   352,
+   200
+  ],
+  "anchor": "posicao fixa: o duto (retangulo preto) fica no mesmo lugar em todos os quadros da linha",
+  "rows": {
+   "r0": "agachar e entrar no duto (direita)",
+   "r1": "andar e entrar no duto (direita)",
+   "r2": "pular e subir no duto (acima-direita)",
+   "r3": "repete r0 (duplicado)"
+  }
+ },
+ "extras_engatinhar": {
+  "cell": [
+   154,
+   106
+  ],
+  "nota": "recortados da linha quebrada de movimentos_base; ordem do ciclo precisa ser conferida"
+ }
+}

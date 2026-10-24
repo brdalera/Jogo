@@ -1,0 +1,60 @@
+{
+ "bravo": {
+  "cell": [
+   240,
+   209
+  ],
+  "frames": [
+   "bravo_r0c0",
+   "bravo_r0c1",
+   "bravo_r0c2",
+   "bravo_r0c3",
+   "bravo_r1c0",
+   "bravo_r1c1",
+   "bravo_r1c2",
+   "bravo_r1c3",
+   "bravo_r2c0",
+   "bravo_r2c1",
+   "bravo_r2c2",
+   "bravo_r2c3",
+   "bravo_r3c0",
+   "bravo_r3c1",
+   "bravo_r3c2",
+   "bravo_r3c3"
+  ],
+  "toca_borda": [
+   "bravo_r3c0"
+  ]
+ },
+ "rotina_cafe": {
+  "cell": [
+   240,
+   177
+  ],
+  "frames": [
+   "rotina_r0c0",
+   "rotina_r0c1",
+   "rotina_r0c2",
+   "rotina_r0c3",
+   "rotina_r1c0",
+   "rotina_r1c1",
+   "rotina_r1c2",
+   "rotina_r1c3",
+   "rotina_r2c0",
+   "rotina_r2c1",
+   "rotina_r2c2",
+   "rotina_r2c3",
+   "rotina_r3c0",
+   "rotina_r3c1",
+   "rotina_r3c2",
+   "rotina_r3c3",
+   "rotina_r4c0",
+   "rotina_r4c1",
+   "rotina_r4c2",
+   "rotina_r4c3"
+  ],
+  "toca_borda": [
+   "rotina_r4c0"
+  ]
+ }
+}
